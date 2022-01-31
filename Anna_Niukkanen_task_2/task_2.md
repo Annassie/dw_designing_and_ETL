@@ -43,12 +43,20 @@
 
 ![5NF table]()
 
+- Johansson can work only in Development-sector
+- Sorgen can work in any sectore, but not in Development-sector
+- Johansson can participate in any project
+- John Smith can participate only in one project 
+
+
 ##### The table in 5NF:
 
 ![5NF table]()
 
 
-#### 6. Convert table into 6NF
+
+
+#### 5. Convert table into 6NF
 
 ##### An original table:
 
