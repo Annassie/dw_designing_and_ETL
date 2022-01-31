@@ -11,11 +11,11 @@
 
 #### 3. Convert table into 4NF:
 
-![Base table]()
+![Base table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.04.45.png)
 
-![4NF table]()
+![4NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.04.50.png)
 
-![4NF table]()
+![4NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.04.58.png)
 
 
 
