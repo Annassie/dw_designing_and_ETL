@@ -50,16 +50,14 @@
 
 ##### The table in 5NF:
 
-![5NF table]()
-
-
+![5NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2017.52.17.png)
 
 
 #### 5. Convert table into 6NF
 
 ##### An original table:
 
-![6NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2017.52.17.png)
+![6NF table]()
 
 ##### The table in 6NF:
 
