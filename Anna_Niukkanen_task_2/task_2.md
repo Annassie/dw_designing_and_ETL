@@ -57,8 +57,8 @@
 
 ##### An original table:
 
-![6NF table]()
+![6NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2017.59.24.png)
 
 ##### The table in 6NF:
 
-![6NF table]()
+![6NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2018.05.40.png)
