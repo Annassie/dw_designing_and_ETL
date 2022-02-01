@@ -40,7 +40,7 @@
 
 ##### An original table:
 
-![5NF table]()
+![5NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.49.58.png)
 
 - Johansson can work only in Development-sector
 - Sorgen can work in any sectore, but not in Development-sector
