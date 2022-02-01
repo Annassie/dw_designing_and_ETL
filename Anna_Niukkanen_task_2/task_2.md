@@ -29,11 +29,10 @@
 
 ![Base table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.04.45.png)
 
-![4NF table]()
 
 ##### The table in 4NF:
 
-![4NF table]()
+![4NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2016.41.45.png)
 
 
 
@@ -41,7 +40,7 @@
 
 ##### An original table:
 
-![5NF table]()
+![5NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.49.58.png)
 
 - Johansson can work only in Development-sector
 - Sorgen can work in any sectore, but not in Development-sector
