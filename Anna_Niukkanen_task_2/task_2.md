@@ -18,7 +18,6 @@
 
 ![Into NFBK](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.25.22.png)
 
-![Into NFBK](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.30.59.png)
 
 ##### The table in NFBK:
 
