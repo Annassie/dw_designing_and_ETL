@@ -8,7 +8,7 @@
 
 ##### The table in 3NF:
 
-![Into 3NF](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-01-31%20at%2023.30.34.png)
+![Into 3NF](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-04%20at%2021.21.22.png)
 
 #### 2. Convert table into NFBK
 
@@ -20,7 +20,7 @@
 
 ##### The table in NFBK:
 
-![Into NFBK](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%200.31.04.png)
+![Into NFBK]https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-04%20at%2021.46.06.png)
 
 
 #### 3. Convert table into 4NF
@@ -61,4 +61,4 @@
 
 ##### The table in 6NF:
 
-![6NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-01%20at%2018.05.40.png)
+![6NF table](https://github.com/Annassie/dw_designing_and_ETL/blob/task_2/Anna_Niukkanen_task_2/images/Screenshot%202022-02-04%20at%2021.53.00.png)
