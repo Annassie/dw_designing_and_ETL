@@ -7,3 +7,12 @@ Create Data Vault and Anchor models based on Northwind-database:
 
 
 ### Solution:
+
+
+#### DataVault:
+
+![Northwind database](https://github.com/Annassie/dw_designing_and_ETL/blob/task_4/Anna_Niukkanen_task_4/images/DataVault_task4.png)
+
+
+
+#### Anchor modeling:
