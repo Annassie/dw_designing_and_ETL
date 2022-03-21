@@ -4,11 +4,11 @@ DW designing and ETL basics
 
 ### Task 2
 
-Datawarehouse achitecture
+Data Warehouse achitecture
 
 
 ### Task 4
 
-Designing of datawarehouse 
+Designing of DWH, DataVault and Anchor modeling 
 
 ### Task 5
